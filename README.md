@@ -1,2 +1,2 @@
-# maekMap
-This repository is for CS:GO map of "Mehmet Akif" high school.
+# CS:GOMaps
+This repository is for CS:GO maps I create over time when I feel inspired.
